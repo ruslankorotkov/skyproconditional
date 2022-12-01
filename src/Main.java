@@ -1,12 +1,12 @@
 public class Main {
     public static void main(String[] args) {
-        int ageBaby = 7;
-        if (ageBaby < 5 )
-        {System.out.println(" Если возраст ребёнка равен " + ageBaby + " он не может кататься на атракционе. ");}
-        if (ageBaby >=5 && ageBaby <=14)
-        {System.out.println(" Если возраст ребёнка равен " + ageBaby + " он может кататься только в сопровождении взрослого. Если взрослого нет, то кататься нельзя. ");}
-        if (ageBaby > 14)
-        {System.out.println(" Если ребенок старше " + ageBaby + " он может кататься без сопровождения взрослого. ");}
+        int IOS = 0;
+        int Android = 1;
+        int clientOS = 0;
+        if ( clientOS < 1 )
+        {System.out.println( " Установите версию приложения для iOS по ссылке ");}
+        else {System.out.println( " Установите версию приложения для Android по ссылке ");}
 
+
+        }
     }
-}
