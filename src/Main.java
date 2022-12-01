@@ -12,6 +12,15 @@ public class Main {
         { System.out.println(" человек уже закончил школу и может отправляться в университет. ");} else { System.out.println("  ");}
         if (ageBaby >= 24)
         { System.out.println(" человек окончил университет и ему пора искать первую работу. ");} else { System.out.println("  ");}
+        int placeAll = 102;
+        int playSit = 60;
+        int playStay = 42;
+        if (  placeAll>= 102)
+        { System.out.println(" вагон забит. ");} else { System.out.println(" есть места. ");}
+        if ( playSit >= 60)
+        { System.out.println(" сидячих мест нет. ");} else { System.out.println(" есть сидячие места. ");}
+        if (playStay >= 42)
+        { System.out.println( " стоячих мест нет. ");} else { System.out.println(" есть стоячие места. ");}
 
     }
 }
