@@ -1,14 +1,14 @@
 public class Main {
     public static void main(String[] args) {
-        int age = 44;
-        if (age >= 2 && age <=6)
-        {System.out.println(" Если возраст человека равен " + age + " то ему нужно ходить в детский сад. ");}
-        if (age >= 7 && age <=18)
-        {System.out.println(" Если возраст человека равен " + age + " то ему нужно ходить в школу. ");}
-        if (age >= 18 && age <=24)
-        {System.out.println( " Если возраст человека равен " + age +" то его место в университете. ");}
-        if (age >= 24)
-        {System.out.println(" Если возраст человека равен " + age + "то ему пора ходить на работу. ");}
+        int ageBaby = 15;
+        if (ageBaby <= 5 )
+        {System.out.println(" Если возраст ребёнка равен " + ageBaby + " он не может кататься на атракционе. ");}
+        if (ageBaby >=5 && ageBaby <=14)
+        {System.out.println(" Если возраст ребёнка равен " + ageBaby + " он может кататься только в сопровождении взрослого. Если взрослого нет, то кататься нельзя. ");}
+        if (ageBaby >= 14)
+        {System.out.println(" Если ребенок старше " + ageBaby + " он может кататься без сопровождения взрослого. ");}
+
+
 
 
 
