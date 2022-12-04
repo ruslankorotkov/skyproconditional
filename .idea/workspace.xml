@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50526cb3-62d3-4241-8250-7103009d8f16" name="Changes" comment="я прошёл тестирование!!!" />
+    <list default="true" id="50526cb3-62d3-4241-8250-7103009d8f16" name="Changes" comment="я прошёл тестирование!!!">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/skyproconditional/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/skyproconditional/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/skyproconditional/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +82,8 @@
       <workItem from="1670093911092" duration="3315000" />
       <workItem from="1670132099255" duration="144000" />
       <workItem from="1670134381232" duration="5142000" />
-      <workItem from="1670166458822" duration="317000" />
+      <workItem from="1670166458822" duration="677000" />
+      <workItem from="1670183520853" duration="1910000" />
     </task>
     <task id="LOCAL-00001" summary="условный оператор.">
       <created>1669886077715</created>
@@ -267,7 +274,28 @@
       <option name="project" value="LOCAL" />
       <updated>1670166748120</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="я прошёл тестирование!!!">
+      <created>1670166808024</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1670166808024</updated>
+    </task>
+    <task id="LOCAL-00029" summary="я прошёл тестирование!!!">
+      <created>1670167025668</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1670167025668</updated>
+    </task>
+    <task id="LOCAL-00030" summary="я прошёл тестирование!!!">
+      <created>1670167131865</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1670167131865</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
