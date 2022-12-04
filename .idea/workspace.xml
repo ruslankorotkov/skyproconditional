@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50526cb3-62d3-4241-8250-7103009d8f16" name="Changes" comment="я прошёл тестирование!!!">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IIuePp7o4bs8FI21FNoadrNnHx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/skyproconditional",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.sourceCode"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="skyproconditional" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50526cb3-62d3-4241-8250-7103009d8f16" name="Changes" comment="" />
+      <created>1669881514787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669881514787</updated>
+      <workItem from="1669881516958" duration="34576000" />
+      <workItem from="1669967126854" duration="17872000" />
+      <workItem from="1669997048437" duration="102000" />
+      <workItem from="1669997190870" duration="184000" />
+      <workItem from="1669999782057" duration="4553000" />
+      <workItem from="1670004388954" duration="935000" />
+      <workItem from="1670005909274" duration="137000" />
+      <workItem from="1670006056219" duration="2105000" />
+      <workItem from="1670013241359" duration="9000" />
+      <workItem from="1670049578788" duration="5561000" />
+      <workItem from="1670064861041" duration="1000" />
+      <workItem from="1670067022725" duration="3159000" />
+      <workItem from="1670074093689" duration="125000" />
+      <workItem from="1670093911092" duration="3315000" />
+      <workItem from="1670132099255" duration="144000" />
+      <workItem from="1670134381232" duration="5142000" />
+    </task>
+    <task id="LOCAL-00001" summary="условный оператор.">
+      <created>1669886077715</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669886077715</updated>
+    </task>
+    <task id="LOCAL-00002" summary="условный оператор.">
+      <created>1669887545813</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669887545813</updated>
+    </task>
+    <task id="LOCAL-00003" summary="условный оператор.">
+      <created>1669887635826</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669887635826</updated>
+    </task>
+    <task id="LOCAL-00004" summary="условный оператор. задание 4. задача 1-2-3.">
+      <created>1669893892740</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669893892740</updated>
+    </task>
+    <task id="LOCAL-00005" summary="условный оператор. задание 4. задача 1-2-3.">
+      <created>1669894558208</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669894558208</updated>
+    </task>
+    <task id="LOCAL-00006" summary="условный оператор. задание 1. домашнее задание 2.">
+      <created>1669895102897</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669895102897</updated>
+    </task>
+    <task id="LOCAL-00007" summary="условный оператор. домашнее задание 2. задание 1-2.">
+      <created>1669896374909</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669896374909</updated>
+    </task>
+    <task id="LOCAL-00008" summary="условный оператор. домашнее задание 2. задание 1-2-3.">
+      <created>1669899639619</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669899639619</updated>
+    </task>
+    <task id="LOCAL-00009" summary="условный оператор. домашнее задание 3. задание 1.">
+      <created>1669904685546</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669904685546</updated>
+    </task>
+    <task id="LOCAL-00010" summary="условный оператор. домашнее задание 3. задание 1.">
+      <created>1669904764425</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669904764425</updated>
+    </task>
+    <task id="LOCAL-00011" summary="условный оператор. домашнее задание 3. задание 2.">
+      <created>1669905397371</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669905397371</updated>
+    </task>
+    <task id="LOCAL-00012" summary="условный оператор. домашнее задание 3. задание 2.">
+      <created>1669906900632</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1669906900632</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Условный оператор. Часть 2. Задание 1.">
+      <created>1669919876431</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669919876431</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Условный оператор. Часть 2. Задание 2.">
+      <created>1669924534740</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1669924534740</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Условный оператор. Часть 2. Задание 2.">
+      <created>1669967175249</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1669967175250</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Условный оператор. Часть 2. Задание 5.">
+      <created>1669980847872</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1669980847872</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Условный оператор. Часть 1. Задание 3.&#10;&#10;Посмотрел видео-разбор (стало чуть понятней ).без него наверно бы не сделал.">
+      <created>1669995967783</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1669995967783</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Условный оператор. Часть 2. Задание 4.">
+      <created>1670004315369</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1670004315369</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Условный оператор. Часть 2. Задание 4. (исправление)">
+      <created>1670005040605</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1670005040605</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Условный оператор. Часть 2. Задание 4. (исправление)">
+      <created>1670050060757</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1670050060757</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Условный оператор. Часть 2. Задание 3.">
+      <created>1670056045053</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1670056045053</updated>
+    </task>
+    <task id="LOCAL-00022" summary="я прошёл тестирование!!!">
+      <created>1670137817417</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1670137817417</updated>
+    </task>
+    <task id="LOCAL-00023" summary="я прошёл тестирование!!!">
+      <created>1670139750205</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1670139750205</updated>
+    </task>
+    <task id="LOCAL-00024" summary="я прошёл тестирование!!!">
+      <created>1670140880829</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1670140880829</updated>
+    </task>
+    <task id="LOCAL-00025" summary="я прошёл тестирование!!!">
+      <created>1670140953712</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1670140953712</updated>
+    </task>
+    <task id="LOCAL-00026" summary="я прошёл тестирование!!!">
+      <created>1670141150822</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1670141150822</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="условный оператор. 4 задание. задача 2." />
+    <MESSAGE value="условный оператор." />
+    <MESSAGE value="условный оператор. задание 4. задача 1-2-3." />
+    <MESSAGE value="условный оператор. задание 1. домашнее задание 2." />
+    <MESSAGE value="условный оператор. домашнее задание 2. задание 1-2." />
+    <MESSAGE value="условный оператор. домашнее задание 2. задание 1-2-3." />
+    <MESSAGE value="условный оператор. домашнее задание 3. задание 1." />
+    <MESSAGE value="условный оператор. домашнее задание 3. задание 2." />
+    <MESSAGE value="Условный оператор. Часть 2. Задание 1." />
+    <MESSAGE value="Условный оператор. Часть 2. Задание 2." />
+    <MESSAGE value="Условный оператор. Часть 2. Задание 5." />
+    <MESSAGE value="Условный оператор. Часть 1. Задание 3.&#10;&#10;Посмотрел видео-разбор (стало чуть понятней ).без него наверно бы не сделал." />
+    <MESSAGE value="Условный оператор. Часть 2. Задание 4." />
+    <MESSAGE value="Условный оператор. Часть 2. Задание 4. (исправление)" />
+    <MESSAGE value="Условный оператор. Часть 2. Задание 3." />
+    <MESSAGE value="я прошёл тестирование!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="я прошёл тестирование!!!" />
+  </component>
+</project>
